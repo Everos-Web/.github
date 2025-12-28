@@ -72,10 +72,4 @@ If you’re interested in working together, feel free to reach out through the a
 
 ---
 
-## About the Name
-
-**Everos** reflects longevity and growth — software that evolves with your business, not against it.
-
----
-
 © Everos Web
